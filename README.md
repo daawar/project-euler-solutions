@@ -2,3 +2,4 @@
 Solution to problems from Project Euler (projecteuler.net)
 
 m1
+m2
